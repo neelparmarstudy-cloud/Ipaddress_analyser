@@ -19,7 +19,7 @@ A low-level networking utility program built in C designed to validate and break
 ## 📁 Repository Structure
 📁 IP-Address-Analyzer/
 │
-├── 📄 Ipadress_analyser.c    # Core C source script containing all parsing, validation, and analytics engines
+├── 📄 Ipadress_analyzer.c    # Core C source script containing all parsing, validation, and analytics engines
 ├── 📄 .gitignore             # Excludes volatile platform binaries and terminal store configurations
 ├── 📄 LICENSE                # MIT License open-source terms
 └── 📄 README.md              # Comprehensive project overview and deployment guide
@@ -40,7 +40,7 @@ cd IP-Address-Analyzer
 Compile the code using a C compiler (such as gcc):
 
 Bash
-gcc -std=c99 Ipadress_analyser.c -o IPAnalyzer
+gcc -std=c99 Ipadress_analyzer.c -o IPAnalyzer
 
 3. Execute the Binary
 On Windows Workstations:
