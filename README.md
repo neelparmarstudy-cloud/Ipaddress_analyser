@@ -33,7 +33,7 @@ To compile and execute this console application across your development terminal
 
 1. Clone the Repository
 Bash
-git clone [https://github.com/YOUR_USERNAME/Ipaddress_analyzer.git](https://github.com/neelparmarstudy-cloud/Ipaddress_analyzer.git)
+git clone [https://github.com/neelparmarstudy-cloud/Ipaddress_analyzer.git](https://github.com/neelparmarstudy-cloud/Ipaddress_analyzer.git)
 cd IP-Address-Analyzer
 
 3. Compile the Source Code
